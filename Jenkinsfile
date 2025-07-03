@@ -1,7 +1,7 @@
 node{
 
     stage('clone'){
-        git branch: 'feature/2025.07.03', url: 'https://github.com/srinfotechbatch2/Petclinic.git'
+        git branch: 'main', url: 'https://github.com/srinfotechbatch2/spring-petclinic.git'
 
     }
 
